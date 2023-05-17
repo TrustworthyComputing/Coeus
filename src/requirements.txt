@@ -1,0 +1,8 @@
+numpy==1.16.2
+scipy
+plyvel
+colorama==0.4.3
+tqdm==4.31.1
+pyfftw
+xxhash
+raven
