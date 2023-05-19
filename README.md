@@ -3,7 +3,7 @@
 ## Coeus Overview
 
 ![alt text][overview]
-Coeus provides 3D search capabilities through use of depth based images and silhouettes. This allows for several different inputs, as the base shape descriptor relies on 3D information extracted from 2D photographs. These raw object views are first converted into 2.5D depth based images. Afterwards, a 2D  fourier transform is performed, local maxima "peaks" corresponding to shape inflection points are detected, and SHA-1 based  signature is generated based on the distance between the peaks
+Coeus provides 3D search capabilities through the use of depth based images and silhouettes. This allows for several different inputs, as the base shape descriptor relies on 3D information extracted from 2D photographs. These raw object views are first converted into 2.5D depth based images. Afterwards, a 2D fourier transform is performed, local maxima "peaks" corresponding to shape inflection points are detected, and SHA-1 based  signature is generated based on the distance between the peaks.
 
 #### How to cite this work
 
@@ -12,7 +12,7 @@ The article can be cited as follows:
 ```
 L. Folkerts, N. Kater, and N. G. Tsoutsos,
 "Coeus: A Universal Search Engine for  Additive Manufacturing",
-in IEEE Access, vol. XX, pp. YYYY-ZZZZ, 2023, doi: 10.1109/ACCESS.2023.3271890.
+in IEEE Access, vol. 11, pp. 45657 - 45671, 2023, doi: 10.1109/ACCESS.2023.3271890.
 ```
 
 ## Installation
